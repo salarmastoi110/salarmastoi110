@@ -57,7 +57,7 @@
 
 - 🎤 University Event Host  
 - 📢 AI & Tech Workshop Organizer  
-- 🧠 Active Tech Community Member  
+- 🎤 Active Tech Community Member  
 - 🚀 Built multiple AI systems  
 
 ---
@@ -94,7 +94,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/salarmastoi110/salarmastoi110/blob/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/salarmastoi110/salarmastoi110/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -121,7 +121,7 @@
 
 ## ⚡ Fun Fact
 
-💡 I don’t just study AI — I build it.
+💡 I don’t just study AI I build it.
 
 ---
 
