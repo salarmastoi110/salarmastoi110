@@ -1,56 +1,67 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:800000,100:FFD700&height=200&section=header&text=Salar%20Mastoi&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:800000,100:FFD700&height=220&section=header&text=Salar%20Mastoi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# 👋 Hi there, I'm Salar Mastoi  
+<div align="center">
 
-### 🚀 Data Science Student | AI & ML Enthusiast  
+# 👋 Hi, I'm Salar Mastoi  
+### 🚀 Data Science Student | AI Enthusiast | Future ML Engineer  
 
----
+<h4>Turning Data into Smart Decisions 💡</h4>
 
-## 💡 About Me
+<img src="https://komarev.com/ghpvc/?username=salarmastoi110&label=Profile%20Views&color=800000&style=flat" />
 
-- 🎓 BS Data Science student at QUEST Nawabshah  
-- 🤖 Passionate about Artificial Intelligence & Machine Learning  
-- 💻 Love building real-world projects using data  
-- 🎤 Public Speaker & Event Host  
-- 🌱 Currently learning **Advanced Machine Learning & AI Systems**  
+</div>
 
 ---
 
-## 🔭 Current Work
+## 🧠 About Me
 
-- Building **AI-based projects**  
-- Working on **Portfolio Website with Flask**  
-- Developing **Data Science & Automation tools**  
+- 🎓 BS Data Science Student at **QUEST Nawabshah**
+- 🤖 Passionate about **AI, Machine Learning & Automation**
+- 💡 Love building **real-world problem solving projects**
+- 🎤 Public Speaker & Tech Event Host
+- 🌍 Focused on **impactful and creative solutions**
 
 ---
 
-## 🧠 Skills
+## 🛠️ Tech Stack
 
-- Python (Expert)  
-- C++ (Intermediate)  
-- Java (Basic)  
-- Machine Learning  
-- Data Structures & Algorithms  
-- SQL / MySQL  
-- Web Development (HTML, CSS, JS, Flask)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,js,flask,git,github" />
+</p>
+
+---
+
+## 💻 Skills
+
+- Python (Expert)
+- C++ (Intermediate)
+- Java (Basic)
+- Machine Learning
+- Data Structures & Algorithms
+- SQL / MySQL
+- Web Development (Flask)
 
 ---
 
 ## 📊 Projects
 
-- 🔹 **Portfolio Website** (Flask + Frontend)  
-- 🔹 **GPA Calculator System (QUEST)**  
-- 🔹 AI & Data Science Practice Projects  
+### 🔹 Portfolio Website
+- Built using **HTML, CSS, JS + Flask**
+- Dynamic backend for contact system
+
+### 🔹 GPA Calculator (QUEST System)
+- Python-based system for GPA calculation
+- Supports semester & cumulative GPA
 
 ---
 
 ## 🏆 Achievements
 
-- 🎤 Hosted multiple university events  
-- 📢 Organized AI & Tech workshops  
-- 🧠 Active in student awareness sessions  
+- 🎤 Hosted multiple university events
+- 📢 Conducted AI & Tech Awareness Sessions
+- 🧠 Organized student workshops
 
 ---
 
@@ -60,21 +71,32 @@
 - Machine Learning with Python (Google)  
 - Python Programming (Coursera)  
 - Java Programming  
-- Computer Course  
+- Computer Course (Evergreen School)  
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/salar-mastoi15  
-- 📧 Email: mirsalarmastoi@gmail.com  
-- 💻 GitHub: https://github.com/salarmastoi110  
+<p align="center">
+  <a href="https://www.linkedin.com/in/salar-mastoi15">
+    <img src="https://img.shields.io/badge/LinkedIn-800000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mirsalarmastoi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://github.com/salarmastoi110">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 📈 GitHub Stats
 
-👉 I enjoy turning complex data into simple and useful insights 🚀  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salarmastoi110&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salarmastoi110&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
 ---
 
