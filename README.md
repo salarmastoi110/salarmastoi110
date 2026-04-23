@@ -41,7 +41,6 @@
 
 ## 💼 Core Skills
 
-```diff
 + Python (Expert)
 + Machine Learning
 + Data Structures & Algorithms
