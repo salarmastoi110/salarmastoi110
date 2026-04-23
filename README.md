@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:8B0000&height=250&section=header&text=Salar%20Mastoi&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20Student%20|%20AI%20Enthusiast&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=150&section=header&text=Welcome%20Salaar%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Future+AI+Engineer;Turning+Data+into+Insights" />
