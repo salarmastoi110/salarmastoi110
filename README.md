@@ -89,15 +89,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=salarmastoi110&theme=redical&bg_color=0d1117&color=ff0000&line=8B0000&point=ffffff&hide_border=true" />
 </p>
 
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/salarmastoi110/salarmastoi110/output/github-contribution-grid-snake.svg" />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
