@@ -1,62 +1,112 @@
-# 👋 Hi, I'm Salar Mastoi
+<div align="center">
 
-<h3 align="center">
-  🤖 AI & Data Science Engineer • 🐍 Python Developer • 📊 Data Science Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,45:0072FF,75:7F00FF,100:FF00CC&height=230&section=header&text=SALAR%20MASTOI&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descAlignY=57&descSize=21&animation=twinkling" width="100%"/>
 
-<p align="center">
-  <b>Turning data into intelligent solutions and ideas into real-world systems.</b>
-</p>
+<br>
 
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A0A0A?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="YOUR_RESUME_URL">
-    <img src="https://img.shields.io/badge/📄_Resume-View-6C63FF?style=for-the-badge" alt="Resume"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/📧_Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Python+Developer;Machine+Learning+Enthusiast;Computer+Vision+Developer;Flask+%26+Streamlit+Developer;Building+Intelligent+Real-World+Systems" alt="Typing SVG"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-</p>
+<br><br>
 
----
+<a href="https://github.com/salarmastoi110">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="YOUR_RESUME_URL">
+<img src="https://img.shields.io/badge/Resume-7F00FF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+</a>
 
-## 🧑‍💻 About Me
+<br><br>
 
-🎓 **BS Data Science** — QUEST Nawabshah
-🤖 **AI & Machine Learning Enthusiast**
-🐍 **Python Developer**
-📊 **Data Analytics & Visualization Enthusiast**
-🌐 **Flask Web Application Developer**
-🧠 **Interested in Intelligent Automation & AI Systems**
-🎤 **Tech Speaker & Event Host**
-🚀 **Building toward an AI Engineer career**
+<img src="https://komarev.com/ghpvc/?username=salarmastoi110&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge" alt="Profile Views"/>
 
-> **"Turning data into intelligent solutions and ideas into real-world systems."**
+</div>
 
 ---
 
-## 🎓 Education
+<div align="center">
 
-### 🏛️ Quaid-e-Awam University of Engineering, Science & Technology — QUEST Nawabshah
+### 🤖 AI  •  📊 DATA SCIENCE  •  🐍 PYTHON  •  🧠 MACHINE LEARNING
 
-**Bachelor of Science in Data Science**
+### Turning data into intelligent solutions and ideas into real-world systems.
+
+</div>
+
+---
+
+# 👋 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+## 🧑‍💻 AI & Data Science Engineer
+
+I'm **Salar Mastoi**, a **BS Data Science student at QUEST Nawabshah** with a strong interest in Artificial Intelligence, Machine Learning, Data Science and intelligent software systems.
+
+I enjoy transforming ideas and problems into **practical, working technology**.
+
+### 🚀 My Focus
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 👁️ Computer Vision
+* 📊 Data Science & Analytics
+* 🐍 Python Development
+* 🌐 Flask Web Applications
+* 📈 Data Visualization
+* ⚙️ Intelligent Automation
+* 💬 Generative AI
+* 🔌 APIs & AI Integration
+
+### 🎯 Career Goal
+
+Building toward a career as an **AI Engineer**, combining:
+
+**Data Science + Artificial Intelligence + Software Engineering**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=salarmastoi110&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight&rank_icon=github" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎓 Education
+
+## 🏛️ Quaid-e-Awam University of Engineering, Science & Technology — QUEST Nawabshah
+
+### Bachelor of Science in Data Science
 
 📍 Nawabshah, Pakistan
 📅 **2022 — Present**
 
 ### 📚 Areas of Focus
 
-`Data Science` `Artificial Intelligence` `Machine Learning` `Data Analytics`
-`Database Systems` `Python Programming` `Web Development`
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Science-1F77B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-00A98F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database%20Systems-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -64,43 +114,53 @@
 
 ## 🐍 Programming & Development
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github,vscode" />
+
 </p>
+
+---
 
 ## 🤖 AI / Machine Learning
 
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-00A98F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation-2ECC71?style=for-the-badge"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00A98F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-FF00CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-2ECC71?style=for-the-badge"/>
+
 </p>
 
-## 📊 Data & Databases
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Data%20Science-1F77B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-FF9F1C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-E91E63?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+## 📊 Data & Analytics
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-FF9F1C?style=for-the-badge"/>
+
 </p>
 
-## 🌐 Web & Tools
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+## 🌐 Frameworks & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flask,streamlit,jupyter,git,github,vscode" />
+
 </p>
 
 ---
@@ -109,52 +169,55 @@
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence
 
 * Machine Learning
 * Computer Vision
 * Face Recognition
 * Emotion Detection
 * Generative AI
-* Intelligent Automation
 * AI Assistants
+* Intelligent Automation
 
 </td>
 
 <td width="50%">
 
-### 📊 Data Science
+## 📊 Data Science
 
 * Data Analysis
 * Data Cleaning
 * Data Visualization
-* Statistical Thinking
 * Predictive Analytics
+* Statistical Thinking
 * Data-driven Decision Making
 * Database Systems
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 💻 Software Development
+## 💻 Software Development
 
 * Python Development
 * Flask Applications
 * Streamlit Applications
-* REST/API Integration
+* REST APIs
+* AI Web Applications
 * Automation Systems
-* Web Applications
 
 </td>
 
 <td width="50%">
 
-### 🎯 Professional Skills
+## 🎯 Professional Skills
 
 * Problem Solving
 * Technical Communication
@@ -164,8 +227,28 @@
 * Continuous Learning
 
 </td>
+
 </tr>
 </table>
+
+---
+
+# 📊 Skill Overview
+
+<div align="center">
+
+```text
+Python Development        ████████████████████░░   90%
+Data Science              ██████████████████░░░░   85%
+Data Analytics            ██████████████████░░░░   85%
+Machine Learning          ████████████████░░░░░░   75%
+Computer Vision           ███████████████░░░░░░░   70%
+AI / Generative AI        ███████████████░░░░░░░   70%
+Web Development           ████████████████░░░░░░   75%
+Automation                ███████████████░░░░░░░   70%
+```
+
+</div>
 
 ---
 
@@ -175,23 +258,22 @@
 
 > An intelligent attendance solution using **Computer Vision and Face Recognition**.
 
-**Technology Stack**
+### 🛠️ Technology
 
 `Python` `OpenCV` `Face Recognition` `Automation`
 
-### ✨ Highlights
+### ✨ Features
 
 * Real-time face detection
 * Face recognition
 * Automated attendance
-* Computer Vision integration
-* Intelligent workflow automation
+* Computer Vision
+* Intelligent automation
+* Attendance record management
 
-<p>
-  <a href="YOUR_ATTENDANCE_REPO_URL">
-    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<a href="YOUR_ATTENDANCE_REPO_URL">
+<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
@@ -199,11 +281,11 @@
 
 > Computer Vision system capable of detecting faces and analyzing facial emotions.
 
-**Technology Stack**
+### 🛠️ Technology
 
 `Python` `OpenCV` `Machine Learning` `Computer Vision`
 
-### ✨ Highlights
+### ✨ Features
 
 * Face detection
 * Face recognition
@@ -211,11 +293,9 @@
 * Image processing
 * Machine Learning integration
 
-<p>
-  <a href="YOUR_EMOTION_REPO_URL">
-    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<a href="YOUR_EMOTION_REPO_URL">
+<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
@@ -223,11 +303,11 @@
 
 > A voice-controlled assistant supporting **Urdu + English** interaction.
 
-**Technology Stack**
+### 🛠️ Technology
 
 `Python` `Speech Recognition` `AI` `Automation`
 
-### ✨ Highlights
+### ✨ Features
 
 * Voice commands
 * Urdu + English interaction
@@ -235,11 +315,9 @@
 * AI-powered responses
 * Automation capabilities
 
-<p>
-  <a href="YOUR_VOICE_AI_REPO_URL">
-    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<a href="YOUR_VOICE_AI_REPO_URL">
+<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
@@ -247,26 +325,25 @@
 
 > A modern personal portfolio platform showcasing projects, skills and professional information.
 
-**Technology Stack**
+### 🛠️ Technology
 
 `Flask` `Python` `HTML` `CSS` `JavaScript`
 
-### ✨ Highlights
+### ✨ Features
 
 * Responsive portfolio
 * Project showcase
-* Skills presentation
 * Professional profile
+* Skills presentation
 * Flask backend
 
-<p>
-  <a href="YOUR_PORTFOLIO_REPO_URL">
-    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-6C63FF?style=for-the-badge"/>
-  </a>
-</p>
+<a href="YOUR_PORTFOLIO_REPO_URL">
+<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
+&nbsp;
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00C6FF?style=for-the-badge"/>
+</a>
 
 ---
 
@@ -274,22 +351,20 @@
 
 > A university-focused GPA calculation system designed to simplify academic performance tracking.
 
-**Technology Stack**
+### 🛠️ Technology
 
 `Python` `Flask` `Web Development`
 
-### ✨ Highlights
+### ✨ Features
 
 * GPA calculation
 * Academic performance tracking
 * User-friendly interface
 * Web-based system
 
-<p>
-  <a href="YOUR_GPA_REPO_URL">
-    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<a href="YOUR_GPA_REPO_URL">
+<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
@@ -297,11 +372,11 @@
 
 > A productivity and career-planning dashboard designed to track learning progress, tasks and career goals.
 
-**Technology Stack**
+### 🛠️ Technology
 
 `Python` `Streamlit` `Data Visualization` `Automation`
 
-### ✨ Highlights
+### ✨ Features
 
 * Learning progress tracking
 * Career goal management
@@ -309,62 +384,73 @@
 * Data visualization
 * Productivity dashboard
 
-<p>
-  <a href="YOUR_CAREER_TRACKER_REPO_URL">
-    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<a href="YOUR_CAREER_TRACKER_REPO_URL">
+<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
 # 🧩 What I Can Build
 
+<div align="center">
+
 ```text
-                    🤖 AI & DATA SCIENCE
-                            │
-          ┌─────────────────┼─────────────────┐
-          ▼                 ▼                 ▼
-     AI SYSTEMS        DATA SOLUTIONS     WEB APPS
-          │                 │                 │
-     Computer Vision    Data Analysis      Flask
-     AI Assistants      Visualization      Streamlit
-     Face Recognition   ML Models           APIs
-     Generative AI      Predictive AI       Dashboards
-     Automation         Data Pipelines      Automation
+                       🤖 AI & DATA SCIENCE
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+              ▼                 ▼                 ▼
+         🤖 AI SYSTEMS     📊 DATA SOLUTIONS   🌐 WEB APPS
+              │                 │                 │
+        Computer Vision     Data Analysis       Flask
+        AI Assistants       Visualization       Streamlit
+        Face Recognition    ML Models            APIs
+        Generative AI       Predictive AI        Dashboards
+        Automation          Data Pipelines       Automation
 ```
 
-### 💡 Practical Solutions
+</div>
 
-| Area          | Solutions                                            |
-| ------------- | ---------------------------------------------------- |
-| 🤖 AI         | AI Assistants, Computer Vision, Generative AI        |
-| 📊 Data       | Analysis, Visualization, Predictive Analytics        |
-| 🧠 ML         | Classification, Prediction, Intelligent Systems      |
-| 🌐 Web        | Flask Applications, Dashboards, APIs                 |
-| ⚙️ Automation | Intelligent workflows and repetitive-task automation |
-| 📈 Analytics  | Data-driven dashboards and insights                  |
+| Area          | What I Can Build                                |
+| ------------- | ----------------------------------------------- |
+| 🤖 AI         | AI Assistants, Computer Vision, Generative AI   |
+| 📊 Data       | Analysis, Visualization, Predictive Analytics   |
+| 🧠 ML         | Prediction, Classification, Intelligent Systems |
+| 🌐 Web        | Flask Applications, Dashboards, APIs            |
+| ⚙️ Automation | Intelligent workflows and automation            |
+| 📈 Analytics  | Data-driven dashboards and insights             |
 
 ---
 
 # 🔬 Current Learning & Focus
 
+<div align="center">
+
 ```text
-                    Artificial Intelligence
-                              ↓
-                     Machine Learning
-                              ↓
-                       Deep Learning
-                              ↓
-                     Computer Vision
-                              ↓
-                      Generative AI
-                              ↓
-                       AI Engineering
-                              ↓
-                  Intelligent Applications
+                 🤖 ARTIFICIAL INTELLIGENCE
+                           │
+                           ▼
+                  🧠 MACHINE LEARNING
+                           │
+                           ▼
+                    🔥 DEEP LEARNING
+                           │
+                           ▼
+                   👁️ COMPUTER VISION
+                           │
+                           ▼
+                    💬 GENERATIVE AI
+                           │
+                           ▼
+                   ⚙️ AI ENGINEERING
+                           │
+                           ▼
+              🚀 INTELLIGENT APPLICATIONS
 ```
 
-## 🎯 Currently Exploring
+</div>
+
+### 🎯 Currently Exploring
 
 * 🧠 Machine Learning Algorithms
 * 🤖 Deep Learning
@@ -381,23 +467,31 @@
 
 # 🏆 Achievements & Activities
 
-* 🎓 BS Data Science student at QUEST Nawabshah
-* 🤖 Developing AI and Machine Learning projects
-* 🐍 Building Python-based intelligent applications
-* 📊 Working with Data Science and Analytics
-* 🌐 Developing Flask web applications
-* 🎤 Tech Speaker & Event Host
-* 🚀 Continuously building practical technology projects
+<div align="center">
 
-> **I believe the strongest learning happens when knowledge is converted into working systems.**
+|   🎓 Education  |  🤖 AI Projects | 🎤 Communication | 🚀 Development |
+| :-------------: | :-------------: | :--------------: | :------------: |
+| BS Data Science | Computer Vision |   Tech Speaker   |     Python     |
+| QUEST Nawabshah |    AI Systems   |    Event Host    |      Flask     |
+|   Data Science  | ML Applications |   Presentations  |    Streamlit   |
+
+</div>
+
+* 🎓 BS Data Science student at QUEST Nawabshah
+* 🤖 Building AI and Machine Learning projects
+* 🐍 Developing Python applications
+* 📊 Working with Data Science and Analytics
+* 🌐 Developing Flask applications
+* 🎤 Tech Speaker & Event Host
+* 🚀 Continuously learning and experimenting
 
 ---
 
 # 📜 Certifications & Learning
 
-> Add your verified certifications here.
+> Add your verified certifications here as you earn them.
 
-| Certification / Course   | Organization     | Year     |
+| 📜 Certification         | 🏢 Organization  | 📅 Year  |
 | ------------------------ | ---------------- | -------- |
 | 🤖 AI / Machine Learning | Add Organization | Add Year |
 | 📊 Data Science          | Add Organization | Add Year |
@@ -408,126 +502,142 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=salarmastoi110&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salarmastoi110&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
+
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=salarmastoi110&theme=tokyonight&hide_border=true&border_radius=10" width="75%"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salarmastoi110&theme=tokyo-night&hide_border=true&area=true&custom_title=Salar%20Mastoi%20Contribution%20Graph" width="95%"/>
+
+</div>
 
 ---
 
-# 🏅 GitHub Profile Trophies
+# 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=salarmastoi110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="90%"/>
+
+</div>
+
+---
+
+# 📊 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salarmastoi110&theme=tokyonight" width="95%"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salarmastoi110&theme=tokyonight" width="45%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salarmastoi110&theme=tokyonight" width="45%"/>
+
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/salarmastoi110/salarmastoi110/output/github-contribution-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
+
+</div>
 
 ---
 
-# 📊 GitHub Metrics
+# 💻 Developer Philosophy
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Most Commit Language"/>
-</p>
-
----
-
-# 💻 Development Philosophy
+<div align="center">
 
 ```text
-              LEARN
-                │
-                ▼
-             EXPLORE
-                │
-                ▼
-              BUILD
-                │
-                ▼
-           EXPERIMENT
-                │
-                ▼
-             TEST
-                │
-                ▼
-             DEPLOY
-                │
-                ▼
-            IMPROVE
-                │
-                └──────────────► REPEAT 🚀
+                  LEARN
+                    │
+                    ▼
+                 EXPLORE
+                    │
+                    ▼
+                  BUILD
+                    │
+                    ▼
+               EXPERIMENT
+                    │
+                    ▼
+                  TEST
+                    │
+                    ▼
+                 DEPLOY
+                    │
+                    ▼
+                IMPROVE
+                    │
+                    └──────────────► REPEAT 🚀
 ```
 
 > **"Don't just learn technology. Build something with it."**
 
-### My approach
-
-🧠 **Learn** — Understand the fundamentals
-🔨 **Build** — Turn concepts into projects
-🧪 **Experiment** — Try new approaches
-🚀 **Deploy** — Make solutions usable
-📈 **Improve** — Learn from every iteration
+</div>
 
 ---
 
 # 🌟 My Career Vision
 
+<div align="center">
+
 ```text
-                  DATA SCIENCE
+                 📊 DATA SCIENCE
                        │
                        ▼
-                  DATA ANALYST
+                 📈 DATA ANALYST
                        │
                        ▼
-             MACHINE LEARNING ENGINEER
+              🧠 ML ENGINEER
                        │
                        ▼
-                   AI ENGINEER
+                 🤖 AI ENGINEER
                        │
                        ▼
-                  AI ARCHITECT 🚀
+                🚀 AI ARCHITECT
 ```
 
-My goal is to combine:
+</div>
+
+### 🎯 Long-Term Vision
+
+Combine:
 
 ```text
-       DATA SCIENCE
-             +
+        DATA SCIENCE
+              +
      ARTIFICIAL INTELLIGENCE
-             +
+              +
     SOFTWARE ENGINEERING
-             ↓
+              ↓
     INTELLIGENT SYSTEMS
-             ↓
-     REAL-WORLD IMPACT
+              ↓
+      REAL-WORLD IMPACT
 ```
 
 > My goal is to build intelligent systems that solve meaningful real-world problems by combining **Data Science + Artificial Intelligence + Software Engineering**.
@@ -536,29 +646,62 @@ My goal is to combine:
 
 # 💼 Open to Opportunities
 
-I'm interested in connecting with:
+<div align="center">
+
+### 🚀 Looking for someone who can learn, build and solve problems?
+
+</div>
 
 <table>
 <tr>
-<td align="center">🤖<br><b>AI / ML</b></td>
-<td align="center">📊<br><b>Data Science</b></td>
-<td align="center">💻<br><b>Python</b></td>
-<td align="center">🔬<br><b>Research</b></td>
-</tr>
-<tr>
-<td align="center">🌐<br><b>AI Web Apps</b></td>
-<td align="center">⚙️<br><b>Automation</b></td>
-<td align="center">🚀<br><b>Internships</b></td>
-<td align="center">🤝<br><b>Collaboration</b></td>
+<td align="center" width="25%">
+
+### 🤖 AI / ML
+
+Internships
+Projects
+Research
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊 Data Science
+
+Analytics
+Visualization
+ML
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐍 Python
+
+Development
+Automation
+APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐 AI Apps
+
+Flask
+Streamlit
+Dashboards
+
+</td>
 </tr>
 </table>
 
-### 🎯 I'm open to
+### 🎯 Interested In
 
 * AI / Machine Learning Internships
 * Data Science Internships
 * Junior AI Engineer Opportunities
-* Python Development Projects
+* Python Development
 * AI Research Collaboration
 * Freelance AI / Data Science Projects
 * Intelligent Automation Projects
@@ -568,52 +711,76 @@ I'm interested in connecting with:
 
 # 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
+
+### 👋 Recruiters • Founders • Companies • Researchers • Developers
+
+If you're working on an interesting AI, Data Science or technology project, **let's connect.**
+
+<br>
+
+<a href="YOUR_RESUME_URL">
+<img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-7F00FF?style=for-the-badge"/>
+</a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-00C6FF?style=for-the-badge"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_RESUME_URL">
-<img src="https://img.shields.io/badge/📄_Resume-View_Resume-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧_HIRE_OR_CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/🐙_GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 # 💡 Fun Fact
 
-> 💡 **I don't just study AI — I build it.**
+<div align="center">
 
-> 🚀 **Learn → Build → Experiment → Deploy → Repeat**
+### 💡 I don't just study AI — **I build it.**
+
+### 🚀 Learn → Build → Experiment → Deploy → Repeat
+
+</div>
 
 ---
 
-<h2 align="center">
-  🏛️ QUEST Nawabshah × 🤖 AI × 📊 Data Science
-</h2>
+<div align="center">
 
-<h3 align="center">
-  Building the future, one intelligent system at a time. 🚀
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7F00FF,100:FF00CC&height=3&section=header" width="100%"/>
 
-<p align="center">
-  <i>Thanks for visiting my GitHub profile!</i>
-</p>
+<br>
 
-<p align="center">
-  <b>⭐ If you find my work interesting, consider following me and exploring my projects.</b>
-</p>
+# 🏛️ QUEST NAWABSHAH × 🤖 AI × 📊 DATA SCIENCE
+
+### **Building the future, one intelligent system at a time. 🚀**
+
+<br>
+
+<a href="https://github.com/salarmastoi110">
+<img src="https://img.shields.io/badge/⭐_EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=salarmastoi110&label=PROFILE%20VISITORS&color=00C6FF&style=flat-square"/>
+
+<br><br>
+
+<sub>© 2026 Salar Mastoi • AI & Data Science Engineer</sub>
+
+<br>
+
+<sub>Code • Learn • Innovate • Succeed 🚀</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,45:0072FF,75:7F00FF,100:FF00CC&height=150&section=footer" width="100%"/>
+
+</div>
