@@ -1,32 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,45:0072FF,75:7F00FF,100:FF00CC&height=230&section=header&text=SALAR%20MASTOI&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descAlignY=57&descSize=21&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C6FF,45:0072FF,75:7F00FF,100:FF00CC&amp;height=230&amp;section=header&amp;text=SALAR%20MASTOI&amp;fontSize=58&amp;fontColor=FFFFFF&amp;fontAlignY=35&amp;desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&amp;descAlignY=57&amp;descSize=21&amp;animation=twinkling" width="100%"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Python+Developer;Machine+Learning+Enthusiast;Computer+Vision+Developer;Flask+%26+Streamlit+Developer;Building+Intelligent+Real-World+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=00C6FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=AI+%26+Data+Science+Engineer;Python+Developer;Machine+Learning+Enthusiast;Computer+Vision+Developer;Flask+%26+Streamlit+Developer;Building+Intelligent+Real-World+Systems" alt="Typing SVG"/>
 
-<br><br>
+<br/><br/>
 
 <a href="https://github.com/salarmastoi110">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="YOUR_RESUME_URL">
-<img src="https://img.shields.io/badge/Resume-7F00FF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+<img src="https://img.shields.io/badge/Resume-7F00FF?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Resume"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=salarmastoi110&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=salarmastoi110&amp;label=PROFILE%20VIEWS&amp;color=7F00FF&amp;style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -34,9 +40,9 @@
 
 <div align="center">
 
-### 🤖 AI  •  📊 DATA SCIENCE  •  🐍 PYTHON  •  🧠 MACHINE LEARNING
+<h3>🤖 AI &amp;nbsp;•&amp;nbsp; 📊 DATA SCIENCE &amp;nbsp;•&amp;nbsp; 🐍 PYTHON &amp;nbsp;•&amp;nbsp; 🧠 MACHINE LEARNING</h3>
 
-### Turning data into intelligent solutions and ideas into real-world systems.
+<h3>Turning data into intelligent solutions and ideas into real-world systems.</h3>
 
 </div>
 
@@ -50,9 +56,9 @@
 
 ## 🧑‍💻 AI & Data Science Engineer
 
-I'm **Salar Mastoi**, a **BS Data Science student at QUEST Nawabshah** with a strong interest in Artificial Intelligence, Machine Learning, Data Science and intelligent software systems.
+I'm **Salar Mastoi**, a **BS Data Science student at QUEST Nawabshah** passionate about building practical solutions using Artificial Intelligence, Machine Learning, Data Science and intelligent software systems.
 
-I enjoy transforming ideas and problems into **practical, working technology**.
+I enjoy transforming ideas and real-world problems into **practical, working technology**.
 
 ### 🚀 My Focus
 
@@ -77,7 +83,7 @@ Building toward a career as an **AI Engineer**, combining:
 
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salarmastoi110&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=salarmastoi110&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=false&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github" width="100%" alt="GitHub Statistics"/>
 
 </td>
 </tr>
@@ -98,13 +104,13 @@ Building toward a career as an **AI Engineer**, combining:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Data%20Science-1F77B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7F00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-00A98F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database%20Systems-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-1F77B4?style=for-the-badge" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7F00FF?style=for-the-badge" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-00A98F?style=for-the-badge" alt="Data Analytics"/>
+<img src="https://img.shields.io/badge/Database%20Systems-336791?style=for-the-badge" alt="Database Systems"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python"/>
+<img src="https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge" alt="Web Development"/>
 
 </p>
 
@@ -116,22 +122,22 @@ Building toward a career as an **AI Engineer**, combining:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github,vscode" alt="Programming Technologies"/>
 
 </p>
 
 ---
 
-## 🤖 AI / Machine Learning
+## 🤖 AI & Machine Learning
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-00A98F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-FF00CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge" alt="AI"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00A98F?style=for-the-badge" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Generative%20AI-FF00CC?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Automation-2ECC71?style=for-the-badge" alt="Automation"/>
 
 </p>
 
@@ -141,15 +147,15 @@ Building toward a career as an **AI Engineer**, combining:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" alt="Data Technologies"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-E91E63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-FF9F1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-E91E63?style=for-the-badge" alt="Data Visualization"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-FF9F1C?style=for-the-badge" alt="Data Analytics"/>
 
 </p>
 
@@ -159,7 +165,7 @@ Building toward a career as an **AI Engineer**, combining:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flask,streamlit,jupyter,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=flask,streamlit,jupyter,git,github,vscode" alt="Frameworks and Tools"/>
 
 </p>
 
@@ -272,7 +278,7 @@ Automation                ███████████████░░░
 * Attendance record management
 
 <a href="YOUR_ATTENDANCE_REPO_URL">
-<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&amp;logo=github" alt="Attendance Repository"/>
 </a>
 
 ---
@@ -294,7 +300,7 @@ Automation                ███████████████░░░
 * Machine Learning integration
 
 <a href="YOUR_EMOTION_REPO_URL">
-<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&amp;logo=github" alt="Emotion Detection Repository"/>
 </a>
 
 ---
@@ -316,7 +322,7 @@ Automation                ███████████████░░░
 * Automation capabilities
 
 <a href="YOUR_VOICE_AI_REPO_URL">
-<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&amp;logo=github" alt="Voice AI Repository"/>
 </a>
 
 ---
@@ -338,11 +344,13 @@ Automation                ███████████████░░░
 * Flask backend
 
 <a href="YOUR_PORTFOLIO_REPO_URL">
-<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&amp;logo=github" alt="Portfolio Repository"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00C6FF?style=for-the-badge" alt="Portfolio Live Demo"/>
 </a>
 
 ---
@@ -363,7 +371,7 @@ Automation                ███████████████░░░
 * Web-based system
 
 <a href="YOUR_GPA_REPO_URL">
-<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&amp;logo=github" alt="GPA Repository"/>
 </a>
 
 ---
@@ -385,7 +393,7 @@ Automation                ███████████████░░░
 * Productivity dashboard
 
 <a href="YOUR_CAREER_TRACKER_REPO_URL">
-<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/🔗_VIEW_REPOSITORY-181717?style=for-the-badge&amp;logo=github" alt="Career Tracker Repository"/>
 </a>
 
 ---
@@ -395,7 +403,7 @@ Automation                ███████████████░░░
 <div align="center">
 
 ```text
-                       🤖 AI & DATA SCIENCE
+                       🤖 AI &amp; DATA SCIENCE
                                 │
               ┌─────────────────┼─────────────────┐
               │                 │                 │
@@ -489,7 +497,7 @@ Automation                ███████████████░░░
 
 # 📜 Certifications & Learning
 
-> Add your verified certifications here as you earn them.
+> Add your verified certifications here.
 
 | 📜 Certification         | 🏢 Organization  | 📅 Year  |
 | ------------------------ | ---------------- | -------- |
@@ -504,9 +512,9 @@ Automation                ███████████████░░░
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salarmastoi110&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=salarmastoi110&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=false&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salarmastoi110&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salarmastoi110&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=tokyonight" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -516,7 +524,7 @@ Automation                ███████████████░░░
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=salarmastoi110&theme=tokyonight&hide_border=true&border_radius=10" width="75%"/>
+<img src="https://streak-stats.demolab.com?user=salarmastoi110&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=10" width="75%" alt="GitHub Streak"/>
 
 </div>
 
@@ -526,7 +534,7 @@ Automation                ███████████████░░░
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salarmastoi110&theme=tokyo-night&hide_border=true&area=true&custom_title=Salar%20Mastoi%20Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salarmastoi110&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Salar%20Mastoi%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -536,23 +544,23 @@ Automation                ███████████████░░░
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=salarmastoi110&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=salarmastoi110&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=2&amp;column=4" width="90%" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-# 📊 Profile Summary
+# 📊 GitHub Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salarmastoi110&theme=tokyonight" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salarmastoi110&amp;theme=tokyonight" width="95%" alt="Profile Details"/>
 
-<br>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salarmastoi110&theme=tokyonight" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salarmastoi110&amp;theme=tokyonight" width="45%" alt="Repositories Per Language"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salarmastoi110&theme=tokyonight" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salarmastoi110&amp;theme=tokyonight" width="45%" alt="Most Commit Language"/>
 
 </div>
 
@@ -626,17 +634,17 @@ Automation                ███████████████░░░
 
 ### 🎯 Long-Term Vision
 
-Combine:
-
 ```text
         DATA SCIENCE
               +
      ARTIFICIAL INTELLIGENCE
               +
     SOFTWARE ENGINEERING
-              ↓
+              │
+              ▼
     INTELLIGENT SYSTEMS
-              ↓
+              │
+              ▼
       REAL-WORLD IMPACT
 ```
 
@@ -648,12 +656,13 @@ Combine:
 
 <div align="center">
 
-### 🚀 Looking for someone who can learn, build and solve problems?
+## 🚀 Looking for someone who can learn, build and solve problems?
 
 </div>
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🤖 AI / ML
@@ -670,7 +679,7 @@ Research
 
 Analytics
 Visualization
-ML
+Machine Learning
 
 </td>
 
@@ -693,6 +702,7 @@ Streamlit
 Dashboards
 
 </td>
+
 </tr>
 </table>
 
@@ -717,22 +727,28 @@ Dashboards
 
 If you're working on an interesting AI, Data Science or technology project, **let's connect.**
 
-<br>
+<br/>
 
 <a href="YOUR_RESUME_URL">
-<img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-7F00FF?style=for-the-badge" alt="Resume"/>
 </a>
+
+ 
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-00C6FF?style=for-the-badge" alt="Portfolio"/>
 </a>
+
+ 
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn"/>
 </a>
 
+ 
+
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/📧_HIRE_OR_CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧_HIRE_OR_CONTACT_ME-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -743,7 +759,7 @@ If you're working on an interesting AI, Data Science or technology project, **le
 
 <div align="center">
 
-### 💡 I don't just study AI — **I build it.**
+## 💡 I don't just study AI — **I build it.**
 
 ### 🚀 Learn → Build → Experiment → Deploy → Repeat
 
@@ -753,34 +769,34 @@ If you're working on an interesting AI, Data Science or technology project, **le
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:7F00FF,100:FF00CC&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:00C6FF,50:7F00FF,100:FF00CC&amp;height=3&amp;section=header" width="100%" alt="Divider"/>
 
-<br>
+<br/>
 
 # 🏛️ QUEST NAWABSHAH × 🤖 AI × 📊 DATA SCIENCE
 
 ### **Building the future, one intelligent system at a time. 🚀**
 
-<br>
+<br/>
 
 <a href="https://github.com/salarmastoi110">
-<img src="https://img.shields.io/badge/⭐_EXPLORE_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⭐_EXPLORE_MY_GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore GitHub"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=salarmastoi110&label=PROFILE%20VISITORS&color=00C6FF&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=salarmastoi110&amp;label=PROFILE%20VISITORS&amp;color=00C6FF&amp;style=flat-square" alt="Profile Visitors"/>
 
-<br><br>
+<br/><br/>
 
 <sub>© 2026 Salar Mastoi • AI & Data Science Engineer</sub>
 
-<br>
+<br/>
 
 <sub>Code • Learn • Innovate • Succeed 🚀</sub>
 
-<br><br>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,45:0072FF,75:7F00FF,100:FF00CC&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00C6FF,45:0072FF,75:7F00FF,100:FF00CC&amp;height=150&amp;section=footer" width="100%" alt="Footer"/>
 
 </div>
