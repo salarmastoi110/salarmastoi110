@@ -18,7 +18,7 @@
 
 ---
 
-# 👋 About Me
+# About Me
 
 I'm **Salar Mastoi**, a **BS Data Science student at QUEST Nawabshah**, passionate about using data, programming, and artificial intelligence to solve practical problems.
 
@@ -44,11 +44,11 @@ I enjoy working across the complete data workflow — from collecting and cleani
 **Bachelor of Science in Data Science**
 **Quaid-e-Awam University of Engineering, Science & Technology (QUEST), Nawabshah**
 
-`2022 – Present`
+`2023 – Present`
 
 ---
 
-# 🧠 Data Science Journey
+# Data Science Journey
 
 ```text
                  DATA SCIENCE
@@ -223,7 +223,7 @@ I'm especially interested in projects where **data + AI + real-world problems** 
 * 🗄️ SQL & Databases
 * 📈 Power BI & Data Visualization
 * 🤖 Machine Learning
-* 🧠 Deep Learning fundamentals
+* 🤖 Deep Learning fundamentals
 * 👁️ Computer Vision
 * 🚀 MLOps & AI Deployment
 
