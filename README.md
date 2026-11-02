@@ -1,22 +1,22 @@
 
-<!-- ================================================== -->
-<!-- SALAR MASTOI | QUEST-INSPIRED GITHUB PROFILE -->
-<!-- Theme: Navy Blue | Cyan | Light Blue | White | Gold -->
-<!-- ================================================== -->
+<!-- ====================================================== -->
+<!-- SALAR MASTOI | GITHUB PROFILE README -->
+<!-- QUEST THEME: NAVY BLUE | CYAN | WHITE | GOLD -->
+<!-- ====================================================== -->
 
+<!-- HEADER -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:087EAD&height=230&section=header&text=Salar%20Mastoi&fontSize=54&fontColor=FFFFFF&fontFamily=Montserrat&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descSize=20&descColor=EAF4FA&descAlignY=60"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:087EAD&height=230&section=header&text=Salar%20Mastoi&fontSize=54&fontColor=FFFFFF&fontFamily=Montserrat&animation=fadeIn&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descSize=16&descColor=EAF4FA&descAlignY=60" width="100%" />
 </p>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://github.com/salarmastoi110">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&duration=3000&pause=1000&color=75C9E8&center=true&vCenter=true&width=750&lines=Data+Science+Student+%7C+AI+%26+ML+Enthusiast;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Exploring+Computer+Vision+%26+Voice+AI;Building+Real-World+Data+%26+AI+Projects" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&duration=3000&pause=1000&color=75C9E8&center=true&vCenter=true&width=800&lines=Data+Science+Student+%7C+AI+%26+ML+Enthusiast;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI;Exploring+Computer+Vision+%26+Voice+AI;Building+Real-World+Data+%26+AI+Projects" />
   </a>
 </p>
 
+<!-- PROFILE BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salarmastoi110&label=PROFILE%20VIEWS&color=087EAD&style=flat-square" />
   <img src="https://img.shields.io/github/followers/salarmastoi110?label=FOLLOWERS&style=flat-square&color=087EAD&logo=github" />
@@ -64,26 +64,20 @@ Quaid-e-Awam University of Engineering, Science & Technology (QUEST), Nawabshah
   <img src="https://img.shields.io/badge/VISUALIZATION-36A9D6?style=for-the-badge" />
 </p>
 
-<p align="center">
-  ⬇️
-</p>
+<p align="center">⬇️</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MACHINE%20LEARNING-087EAD?style=for-the-badge" />
 </p>
 
-<p align="center">
-  ⬇️
-</p>
+<p align="center">⬇️</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/COMPUTER%20VISION-0B1F3A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20%26%20NLP-087EAD?style=for-the-badge" />
 </p>
 
-<p align="center">
-  ⬇️
-</p>
+<p align="center">⬇️</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/REAL--WORLD%20SOLUTIONS-D6AD55?style=for-the-badge" />
@@ -251,20 +245,17 @@ I'm especially interested in projects where **Data + AI + Real-World Problems** 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=salarmastoi110&show_icons=true&theme=transparent&hide_border=true&bg_color=0B1F3A&title_color=75C9E8&icon_color=D6AD55&text_color=EAF4FA&ring_color=75C9E8&border_radius=15" />
-  <img height="170" src="https://streak-stats.demolab.com?user=salarmastoi110&theme=transparent&hide_border=true&background=0B1F3A&stroke=75C9E8&ring=D6AD55&fire=087EAD&border_radius=15" />
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=salarmastoi110&theme=tokyonight&hide_border=true&background=0B1F3A&stroke=75C9E8&ring=D6AD55&fire=D6AD55&currStreakLabel=75C9E8&sideLabels=EAF4FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=75C9E8"
+    alt="GitHub Streak Statistics"
+  />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salarmastoi110&layout=compact&theme=transparent&hide_border=true&bg_color=0B1F3A&title_color=75C9E8&text_color=EAF4FA&border_radius=15" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=salarmastoi110&bg_color=0B1F3A&color=EAF4FA&line=75C9E8&point=D6AD55&area=true&hide_border=true&radius=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salarmastoi110&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <a href="https://github.com/salarmastoi110?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-087EAD?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -302,9 +293,7 @@ I also enjoy contributing to the tech community through:
 
 ---
 
+<!-- FOOTER -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:087EAD,100:0B1F3A&height=120&section=footer"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:087EAD,100:0B1F3A&height=120&section=footer" width="100%" />
 </p>
